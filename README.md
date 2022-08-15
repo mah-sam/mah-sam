@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mah-sam
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web developement and electrical engineering
+- 🌱 I’m currently learning AI and electrical engineering
 - 💞️ I’m looking to collaborate with anyone anytime (:
 - 📫 How to reach me:  
 Twitter: @mah_sam01 <br>
